@@ -8,7 +8,7 @@
 - **Tech Used**: OpenCV.
 - **Highlights**:
   - Works in real-time.
-- 📂[`1_Edge_Filter_with_OpenCV`](./Edge_Filter_with_OpenCV/CVProCode1.py) 
+- 📂[`1_Edge_Filter_with_OpenCV`](./Edge_Filter_with_OpenCV/CVPro1Code.py) 
 
 ---
 
@@ -18,7 +18,7 @@
 - **Highlights**:
   - Useful for Motion Detection for Security Purposes
   - Live object tracking visualization.
-- 📂 [`2_Motion_Filtering_with_OpenCV`](./Motion_Filtering_with_OpenCV/CVProCode2.py)
+- 📂 [`2_Motion_Filtering_with_OpenCV`](./Motion_Filtering_with_OpenCV/CVPro2Code.py)
 
 ---
 
