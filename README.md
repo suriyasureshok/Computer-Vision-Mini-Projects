@@ -3,29 +3,22 @@
 
 ## 🚀 Projects
 
-### 1. 👤 Face Detection using Haar Cascades
-- **Description**: Detects human faces in real-time using your webcam.
-- **Tech Used**: OpenCV, Haar Cascade Classifier.
+### 1. 👤 Edge Filter with OpenCV
+- **Description**: Extrtacts the edges of the objects.
+- **Tech Used**: OpenCV.
 - **Highlights**:
   - Works in real-time.
-  - Easy to customize with different classifiers.
-- 📂 [`1_face_detection`](./1_face_detection)
+- 📂['1_Edge_Filter_Using_OpenCV'](./Edge_Filter_with_OpenCV) 
 
 ---
 
-### 2. 🎯 Object Tracking using Color Detection
-- **Description**: Tracks colored objects in a video feed (e.g., red ball).
-- **Tech Used**: OpenCV, HSV color space, contour detection.
+### 2. 🎯 Motion Filtering with OpenCV
+- **Description**: It tracks the Motion of the object in real-time.
+- **Tech Used**: OpenCV.
 - **Highlights**:
-  - Adjustable color ranges.
+  - Useful for Motion Detection for Security Purposes
   - Live object tracking visualization.
-- 📂 [`2_object_tracking`](./2_object_tracking)
+- 📂 [`2_Motion_Filtering_with_OpenCV`](./2_object_tracking)
 
 ---
 
-## 🛠 Requirements
-
-Install the required libraries using:
-
-```bash
-pip install -r requirements.txt
